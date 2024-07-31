@@ -1,1 +1,1 @@
-# FIFO
+# Implementation of synchronous FIFO
